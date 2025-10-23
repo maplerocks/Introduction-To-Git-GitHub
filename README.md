@@ -1,6 +1,8 @@
 # Getting Started with Git and GitHub
 
-Module 2 Glossary: Git Commands and Managing GitHub Projects
+Module 2 Glossary: 
+
+Git Commands and Managing GitHub Projects
 Welcome! This alphabetized glossary contains many of the terms in this course. This comprehensive glossary also includes additional industry-recognized terms not used in course videos. These terms are essential for you to recognize when working in the industry, participating in user groups, and in other professional certificate programs.
 
 Estimated reading time: 4 minutes
