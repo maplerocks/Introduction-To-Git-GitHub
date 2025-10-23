@@ -3,6 +3,7 @@
 Here is a quick overview on GitHub Terminologies and Callable Methods. Use the Jump Links as you please:
 1. [Common Terminologies](#Common-Terminologies)
 2. [Command CheatSheet](#CheatSheet-For-Methods-And-Commands)
+3. [Common Repo / GitHub Repo necesities](#Common-Repo-Setup)
 
 
 
@@ -79,3 +80,11 @@ Estimated reading time: 4 minutes
 | **git status** | Allows you to see the state of your working directory and the staged snapshot of the changes | `git status` |
 | **git version** | Displays the current Git version installed on your system | `git --version` |
 
+
+## 3.0 Common Repo Setup
+1. Readme.md
+2. License.md
+|> License.md can be done in two ways.
+|> 1. Via GITHUB
+|> 2. Via GIT CLI
+4. .gitignore
