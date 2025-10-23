@@ -1,13 +1,13 @@
 # Getting Started with Git and GitHub
 
 Here is a quick overview on GitHub Terminologies and Callable Methods. Use the Jump Links as you please:
-1. [Common Terminologies](#Common-Terminologies)
-2. [Command CheatSheet](#CheatSheet-For-Methods-And-Commands)
-3. [Common Repo / GitHub Repo necesities](#Common-Repo-Setup)
+1. [Common Terminologies](#1.0-Common-Terminologies)
+2. [Command CheatSheet](#2.0-CheatSheet-For-Methods-And-Commands)
+3. [Common Repo / GitHub Repo necesities](#3.0-Common-Repo-Setup)
 
 
 
-## Common Terminologies
+## 1.0 Common Terminologies
 Module 2 Glossary: 
 
 Git Commands and Managing GitHub Projects
@@ -38,7 +38,7 @@ Estimated reading time: 4 minutes
 | **Version control** | A system that allows you to keep track of changes to your documents. This process allows you to recover older versions of the documents if any mistakes are made. |
 
 
-## CheatSheet For Methods And Commands
+## 2.0 CheatSheet For Methods And Commands
 
 | **Package/Method** | **Description** | **Code Example** |
 |---------------------|-----------------|------------------|
