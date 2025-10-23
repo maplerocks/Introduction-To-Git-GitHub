@@ -84,7 +84,7 @@ Estimated reading time: 4 minutes
 ## 3.0 Common Repo Setup
 1. Readme.md
 2. License.md
-|> License.md can be done in two ways.
-|> 1. Via GITHUB
-|> 2. Via GIT CLI
+> License.md can be done in two ways.
+> 1. Via GITHUB
+> 2. Via GIT CLI
 4. .gitignore
