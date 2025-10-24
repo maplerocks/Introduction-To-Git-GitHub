@@ -1,9 +1,9 @@
 # Getting Started with Git and GitHub
 
 Here is a quick overview on GitHub Terminologies and Callable Methods. Use the Jump Links as you please:
-1. [Common Terminologies](#1.0-Common-Terminologies)
-2. [Command CheatSheet](#2.0-CheatSheet-For-Methods-And-Commands)
-3. [Common Repo / GitHub Repo necesities](#3.0-Common-Repo-Setup)
+1. [Common Terminologies](#10-Common-Terminologies)
+2. [Command CheatSheet](#20-CheatSheet-For-Methods-And-Commands)
+3. [Common Repo / GitHub Repo necesities](#30-Common-Repo-Setup)
 
 
 
