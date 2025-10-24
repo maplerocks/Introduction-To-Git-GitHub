@@ -86,5 +86,7 @@ Estimated reading time: 4 minutes
 2. License.md
 > License.md can be done in two ways.
 > 1. Via GITHUB
-> 2. Via GIT CLI
+> > This can be done either from the initial repo set up. Or later, by creating new File -> type "License" (A template button will appear) -> Select License Template.   
+> 3. Via GIT CLI
+3. Code of conduct
 4. .gitignore
